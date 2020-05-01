@@ -2,7 +2,7 @@
 Quick analysis using Python to visualize data and extract insights of reported bullying incidents.
 
 ## Report and Analysis
-[Georgia School District Bullying Analysis](Georgia School District Bullying Analysis.ipynb)
+[Georgia School District Bullying Analysis](Georgia%20School%20District%20Bullying%20Analysis.ipynb)
 
 ## Blog Post
 https://medium.com/@kevinlwebb/analyzing-discrimination-in-schools-3097b5379607
